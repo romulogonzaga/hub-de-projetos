@@ -28,7 +28,7 @@ const projetosNoite = [
         shortDesc: `Interface ágil de abertura de chamados de TI, conectando alunos e instrutores diretamente ao suporte técnico através de QR Codes.`,
         fullDesc: `Criado para resolver os desafios de manutenção de hardwares e redes, o Sistema de Reporte otimiza o fluxo de comunicação de falhas. Em vez de abrir chamados verbais vagos, o aluno ou professor escaneia o QR Code fixado ao lado da máquina defeituosa. Ele então preenche um formulário digital rápido com a sua matrícula, o número exato do PC e a categorização do defeito (mouse, teclado, monitor ou software). Os dados chegam de forma categorizada ao técnico, garantindo manutenção assertiva, relatórios estatísticos de quebra e desenvolvendo o zelo pelo patrimônio da escola.`,
         link: "https://reporte-para-senai26.netlify.app/",
-        image: "sistema de reporte.png",
+        image: "sSISTEMA DE REPORTE.png",
         imageAlt: "Placa sinalizadora do Sistema de Reporte afixada no computador",
         autores: ["Luiz Fabiano", "Sabrina", "Ana Flavia"],
         presentation: "SISTEMA DE REPORTE APRESENTAÇÃO.pdf"
@@ -263,3 +263,4 @@ function showIntro() {
     introView.classList.remove('hidden');
     window.scrollTo(0, 0);
 }
+
