@@ -6,10 +6,10 @@ const projetosNoite = [
         shortDesc: `Plataforma inteligente para monitoramento, registro digital rastreável e análise de riscos de desvio de incidentes operacionais.`,
         fullDesc: `O RDI (Risco de Desvio de Incidentes) é uma plataforma de gestão preditiva desenvolvida para ambientes industriais e educacionais. A solução tecnológica identifica, registra, analisa e previne desvios operacionais antes que se tornem problemas graves. Através da leitura de um QR Code fixado na unidade, o usuário realiza um reporte rápido e digital. O sistema entrega padronização de respostas, rastreabilidade e dados concretos para a tomada de decisões da coordenação, partindo da premissa de que a prevenção custa menos que a correção.`,
         link: "https://0001113992-maker.github.io/",
-        image: "media/RDI SENAI.png", 
+        image: "RDI SENAI.png", 
         imageAlt: "QR Code do sistema RDI SENAI",
         autores: ["Alexandre", "Gizele", "Heitor", "Silas"],
-        presentation: "presentation/RDI SENAI.pdf"
+        presentation: "RDI SENAI.pdf"
     },
     {
         id: 2,
@@ -17,10 +17,10 @@ const projetosNoite = [
         shortDesc: `Sistema digital autônomo de locação de livros via leitura de QR Code, garantindo acesso estendido ao acervo sem barreiras de horário.`,
         fullDesc: `O SAB revoluciona a experiência na biblioteca ao resolver o desafio de acesso em horários variados. Como destacado no protótipo ao lado, o QR Code será colado na parte interna dos próprios livros físicos. Ao abri-lo, o aluno escaneia o código pelo celular e realiza a locação de forma totalmente automatizada e independente. O sistema gerencia o catálogo, controla as datas de retirada e devolução, reduzindo as tarefas manuais da bibliotecária e mantendo a segurança do patrimônio com monitoramento 24h. Isso garante praticidade, autonomia e disponibilidade contínua dos materiais de estudo.`,
         link: "https://kaykyadriano.github.io/SAB/",
-        image: "media/prototipo Sab.jpeg", 
+        image: "prototipo Sab.jpeg", 
         imageAlt: "QR Code inserido dentro do livro físico para leitura autônoma",
         autores: ["Kayky", "Jade", "Mateus"],
-        presentation: "presentation/APRESENTAÇÃO SAB.pdf"
+        presentation: "APRESENTAÇÃO SAB.pdf"
     },
     {
         id: 3,
@@ -28,10 +28,10 @@ const projetosNoite = [
         shortDesc: `Interface ágil de abertura de chamados de TI, conectando alunos e instrutores diretamente ao suporte técnico através de QR Codes.`,
         fullDesc: `Criado para resolver os desafios de manutenção de hardwares e redes, o Sistema de Reporte otimiza o fluxo de comunicação de falhas. Em vez de abrir chamados verbais vagos, o aluno ou professor escaneia o QR Code fixado ao lado da máquina defeituosa. Ele então preenche um formulário digital rápido com a sua matrícula, o número exato do PC e a categorização do defeito (mouse, teclado, monitor ou software). Os dados chegam de forma categorizada ao técnico, garantindo manutenção assertiva, relatórios estatísticos de quebra e desenvolvendo o zelo pelo patrimônio da escola.`,
         link: "https://reporte-para-senai26.netlify.app/",
-        image: "media/sistema de reporte.png",
+        image: "sistema de reporte.png",
         imageAlt: "Placa sinalizadora do Sistema de Reporte afixada no computador",
         autores: ["Luiz Fabiano", "Sabrina", "Ana Flavia"],
-        presentation: "presentation/SISTEMA DE REPORTE APRESENTAÇÃO.pdf"
+        presentation: "SISTEMA DE REPORTE APRESENTAÇÃO.pdf"
     },
     {
         id: 4,
@@ -42,7 +42,7 @@ const projetosNoite = [
         image: "",
         imageAlt: "",
         autores: ["Maiderson Junio", "Paola Oliveira", "Raissa Ellen"],
-        presentation: "presentation/Justify apresentação.pdf"
+        presentation: "Justify apresentação.pdf"
     },
     {
         id: 5,
@@ -53,7 +53,7 @@ const projetosNoite = [
         image: "",
         imageAlt: "",
         autores: ["Erick Amaral", "Matheus Teixeira", "Raphaela Vieira"],
-        presentation: "presentation/SENAI WorkTime (2).pdf"
+        presentation: "SENAI WorkTime (2).pdf"
     },
     {
         id: 6,
@@ -64,7 +64,7 @@ const projetosNoite = [
         image: "",
         imageAlt: "",
         autores: ["Nicolas de Souza", "Yuri Samuel", "Matheus Oliveira", "João Gabriel"],
-        presentation: "presentation/cantina 2.0.pdf" 
+        presentation: "cantina 2.0.pdf" 
     }
 ];
 
@@ -79,7 +79,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Davi Augusto", "Matheus Felipe", "Erik Richard", "João Pedro"],
-        presentation: "presentation/SOLUCIONE AQUI APRESENTAÇÃO.pdf"
+        presentation: "SOLUCIONE AQUI APRESENTAÇÃO.pdf"
     },
     {
         id: 8,
@@ -90,7 +90,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Iasmym Santos", "Simara Silva"],
-        presentation: "presentation/cheklist computacional apresentação.pdf"
+        presentation: "cheklist computacional apresentação.pdf"
     },
     {
         id: 9,
@@ -101,7 +101,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Maria Eduarda"],
-        presentation: "presentation/infratech.pdf"
+        presentation: "infratech.pdf"
     },
     {
         id: 10,
@@ -112,7 +112,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Geicielle Moura", "Lívia Rodrigues", "Yara Santana"],
-        presentation: "presentation/SARP - Apresentação.pdf"
+        presentation: "SARP - Apresentação.pdf"
     },
     {
         id: 11,
@@ -123,7 +123,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Ana Carolayne", "Andreza", "Gustavo", "Karla", "Luan"],
-        presentation: "presentation/apresentaçãoInovaTech.pdf.pdf"
+        presentation: "apresentaçãoInovaTech.pdf.pdf"
     },
     {
         id: 12,
@@ -134,7 +134,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Paulo", "João", "Caio", "Fellipe"],
-        presentation: "presentation/Sistema de Gerenciamento de Eventos (SGE) Apresentação.pdf"
+        presentation: "Sistema de Gerenciamento de Eventos (SGE) Apresentação.pdf"
     },
     {
         id: 13,
@@ -145,7 +145,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Gabrielly", "Rayssa", "Heber"],
-        presentation: "presentation/wait go apresentação.pdf"
+        presentation: "wait go apresentação.pdf"
     }
 ];
 
