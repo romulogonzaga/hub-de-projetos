@@ -133,7 +133,7 @@ const projetosTarde = [
         link: "https://victorgabrielpa.github.io/SGE/",
         image: "", 
         imageAlt: "",
-        autores: ["Paulo", "João", "Caio", "Fellipe"],
+        autores: ["Victor Gabriel", "Paulo", "João", "Caio", "Fellipe"],
         presentation: "Sistema de Gerenciamento de Eventos (SGE) Apresentação.pdf"
     },
     {
@@ -263,6 +263,7 @@ function showIntro() {
     introView.classList.remove('hidden');
     window.scrollTo(0, 0);
 }
+
 
 
 
