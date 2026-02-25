@@ -90,7 +90,7 @@ const projetosTarde = [
         image: "", 
         imageAlt: "",
         autores: ["Iasmym Santos", "Simara Silva"],
-        presentation: "cheklist computacional apresentação.pdf"
+        presentation: "cheklist computacional.pdf"
     },
     {
         id: 9,
@@ -263,6 +263,7 @@ function showIntro() {
     introView.classList.remove('hidden');
     window.scrollTo(0, 0);
 }
+
 
 
 
