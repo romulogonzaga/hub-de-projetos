@@ -1,4 +1,3 @@
-# hub-de-ptojetos.github.io
 # 🚀 Hub de Projetos Tech - SENAI
 
 Bem-vindo ao repositório oficial do **Hub de Projetos** das turmas do curso técnico de **Informática para Internet** do SENAI. 
