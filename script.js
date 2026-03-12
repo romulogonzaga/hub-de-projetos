@@ -37,7 +37,7 @@ const projetosNoite = [
         id: 4,
         title: "Justify",
         shortDesc: `Aplicação Paperless para gestão digital, envio de atestados e centralização do fluxo de justificativas de faltas e saídas antecipadas.`,
-        fullDesc: `O Justify moderniza o processo acadêmico no SENAI, substituindo os processos físicos lentos por um fluxo de trabalho (workflow) digitalizado e eficiente. O aluno, utilizando a matrícula (RA), acessa a plataforma para fazer o upload do documento comprobatório em PDF ou imagem (atestados) e acompanha a validação pedagógica. A automação cruza essas informações com a política institucional (frequência mínima de 75%), emitindo alertas e promovendo uma gestão transparente, sustentável (com redução drástica do uso de papel) e ágil para toda a comunidade escolar.`,
+        fullDesc: `O Justify moderniza o processo acadêmico no SENAI, substituindo os processos físicos lentos por um fluxo de trabalho (workflow) digitalizado e eficiente. O aluno, utilizando a matrícula (RA), acessa a plataforma para fazer o upload do documento comprobatório em PDF ou imagem (atestados) e acompanha a validação pedagógica. A automação cruza essas informações com a política institucional (frequência mínima de 75%), emitindo alertas e promovendo uma gestão transparente, sustentável (com redução drástica do uso de papel) e ágil para toda a comunidade escolar. Usuário: admin | Senha: 1234`,
         link: "https://0001150903.github.io/Sistema-de-Faltas/",
         image: "",
         imageAlt: "",
@@ -263,6 +263,7 @@ function showIntro() {
     introView.classList.remove('hidden');
     window.scrollTo(0, 0);
 }
+
 
 
 
